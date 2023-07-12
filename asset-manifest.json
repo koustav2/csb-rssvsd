@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://koustav2.github.io/csb-rssvsd/static/css/main.f1f1e0cc.chunk.css",
+    "main.js": "https://koustav2.github.io/csb-rssvsd/static/js/main.e871bd99.chunk.js",
+    "main.js.map": "https://koustav2.github.io/csb-rssvsd/static/js/main.e871bd99.chunk.js.map",
+    "runtime-main.js": "https://koustav2.github.io/csb-rssvsd/static/js/runtime-main.f70e9804.js",
+    "runtime-main.js.map": "https://koustav2.github.io/csb-rssvsd/static/js/runtime-main.f70e9804.js.map",
+    "static/js/2.7cf31f7d.chunk.js": "https://koustav2.github.io/csb-rssvsd/static/js/2.7cf31f7d.chunk.js",
+    "static/js/2.7cf31f7d.chunk.js.map": "https://koustav2.github.io/csb-rssvsd/static/js/2.7cf31f7d.chunk.js.map",
+    "index.html": "https://koustav2.github.io/csb-rssvsd/index.html",
+    "precache-manifest.3ac583eb6970e83677f45dc427eb122b.js": "https://koustav2.github.io/csb-rssvsd/precache-manifest.3ac583eb6970e83677f45dc427eb122b.js",
+    "service-worker.js": "https://koustav2.github.io/csb-rssvsd/service-worker.js",
+    "static/css/main.f1f1e0cc.chunk.css.map": "https://koustav2.github.io/csb-rssvsd/static/css/main.f1f1e0cc.chunk.css.map",
+    "static/js/2.7cf31f7d.chunk.js.LICENSE.txt": "https://koustav2.github.io/csb-rssvsd/static/js/2.7cf31f7d.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "https://koustav2.github.io/csb-rssvsd/static/media/logo.be622899.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f70e9804.js",
+    "static/js/2.7cf31f7d.chunk.js",
+    "static/css/main.f1f1e0cc.chunk.css",
+    "static/js/main.e871bd99.chunk.js"
+  ]
+}
